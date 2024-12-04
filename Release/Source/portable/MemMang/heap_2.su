@@ -1,0 +1,5 @@
+../Source/portable/MemMang/heap_2.c:153:8:pvPortMalloc	24	static
+../Source/portable/MemMang/heap_2.c:263:6:vPortFree	8	static
+../Source/portable/MemMang/heap_2.c:308:8:xPortGetFreeHeapSize	0	static
+../Source/portable/MemMang/heap_2.c:314:6:vPortInitialiseBlocks	0	static
+../Source/portable/MemMang/heap_2.c:320:8:pvPortCalloc	16	static

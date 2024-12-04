@@ -1,0 +1,15 @@
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_ll_usart.h:2201:22:LL_USART_DisableIT_TXE	0	static,ignoring_inline_asm
+../UARTStdio/uartstdio.c:245:1:UARTPrimeTransmit	16	static,ignoring_inline_asm
+../UARTStdio/uartstdio.c:355:1:UARTwrite	24	static
+../UARTStdio/uartstdio.c:493:1:UARTgets	20	static
+../UARTStdio/uartstdio.c:710:1:UARTgetc	0	static
+../UARTStdio/uartstdio.c:784:1:UARTvprintf	72	static
+../UARTStdio/uartstdio.c:1216:1:UARTprintf	16	static
+../UARTStdio/uartstdio.c:1246:1:UARTRxBytesAvail	0	static
+../UARTStdio/uartstdio.c:1265:1:UARTTxBytesFree	0	static
+../UARTStdio/uartstdio.c:1292:1:UARTPeek	12	static
+../UARTStdio/uartstdio.c:1346:1:UARTFlushRx	0	static,ignoring_inline_asm
+../UARTStdio/uartstdio.c:300:1:UARTStdioConfig	8	static,ignoring_inline_asm
+../UARTStdio/uartstdio.c:1389:1:UARTFlushTx	16	static
+../UARTStdio/uartstdio.c:1451:1:UARTEchoSet	0	static
+../UARTStdio/uartstdio.c:1471:1:UARTStdioIntHandler	32	static
