@@ -25,6 +25,6 @@
 ../Core/Src/main.c:130:6:SystemClock_Config	4
 ../Core/Src/main.c:163:13:MX_USART2_UART_Init	1
 ../Core/Src/main.c:220:13:MX_GPIO_Init	1
-../Core/Src/main.c:262:13:Status_Led_Task	2
-../Core/Src/main.c:276:13:Switch_Task	1
-../Core/Src/main.c:299:6:Error_Handler	1
+../Core/Src/main.c:246:13:Status_Led_Task	2
+../Core/Src/main.c:260:13:Switch_Task	1
+../Core/Src/main.c:283:6:Error_Handler	1
